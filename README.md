@@ -1,0 +1,1 @@
+Welcome to my GitHub portfolio! I’m currently transitioning into the cybersecurity field with the goal of becoming a Security Analyst and eventually helping manage and secure entire environments. I sold a SOCaaS for years and found I was more interested in what was going on behind the scenes rather than in the showroom.
